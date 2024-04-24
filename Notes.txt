@@ -1,0 +1,16 @@
+Absolute running time of an algorithm can not be predicted, since it depends on number of factors.
+    - Programming language used to implement the algorithm.
+    - The computer the program runs on.
+    - Other programs running at the same time.
+    - Quality of operating system.
+
+Hence we evaluate the performance of the algoroithms based on input size.
+Time complexity - Amount of time taken by an algorithm to run, as a function of input size.
+Space complexity - Amount of space taken by an algorithm to run, as a function of input size.
+
+By evaluating against input size, the analysis is not only machine independent but the comparison is also more appropriate.
+
+Mathematic rule to represent time and space complexity.
+- Big O Notation -> ( O-Notation ) - Worst Case complexity
+- Omega Notation -> ( ^-Notation ) - Best Case complexity
+- Theta Notation -> ( 0-Notation ) - Avg Case complexity
